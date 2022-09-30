@@ -1,1 +1,97 @@
+header {
+    height: 150px;
+    background: #9ACD32;
+}
+
+    header p {
+        font-size: 50px;
+        text-align: left;
+    }
+
+    header img {
+        float: left;
+        height: 120px;
+    }
+
+table {
+    border: 1px solid chartreuse;
+}
+
+tb {
+    text-align: center
+}
+
+form {
+    text-align: center;
+    font-size: 30px;
+}
+
+ol {
+    text-align: center;
+}
+
+nav {
+    border-radius: 10px;
+    background: #E6E6FA;
+    height: 180px;
+}
+
+.left {
+    float: left;
+}
+
+#menu {
+    display: flex;
+    flex-direction: column;
+    align-content:center;
+    height: 400px;
+}
+
+#p1 {
+    align-content: center;
+    height: auto;
+    text-align: center;
+    font-size: 25px;
+    background: #E6E6FA;
+}
+
+#p2 {
+    background: #E6E6FA;
+}
+
+#p3 {
+    background: #E6E6FA;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    background: #E6E6FA;
+}
+
+footer {
+    border-radius: 10px;
+    height: 70px;
+    background: url(https://www.thonky.com/legend-of-zelda/zelda-map.png);
+}
+
+.cen{
+    display:flex;
+    justify-content:center;
+}
+
+.gr {
+    background-color: chartreuse;
+}
+
+.yl {
+    background-color: darkgoldenrod;
+}
 
